@@ -1,4 +1,4 @@
-const wwa = require('./whatsapp-web-api');
+const wwa = require('whatsapp-web-api');
 const config = require('./config/settings.js');
 const client = require('./includes/client.js');
 
